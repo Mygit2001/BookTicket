@@ -1,0 +1,8 @@
+.btn-submit {
+    font-weight: bold !important;
+    color: rgb(144, 60, 0) !important;
+    opacity: 0.8;
+}
+.btn-submit:hover {
+    opacity: 1;
+}
